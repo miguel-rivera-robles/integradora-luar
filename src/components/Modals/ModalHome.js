@@ -31,7 +31,8 @@ export default ModalHome;
 const styles = StyleSheet.create({
     titulo: {
         color:'white',    
-        fontSize: 30,
+        fontSize: 50,
+        fontWeight: 'bold',
         justifyContent: 'center',
         alignItems: 'center',
     },
